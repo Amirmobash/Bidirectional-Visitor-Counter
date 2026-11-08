@@ -1,6 +1,12 @@
 markdown
 # Personen-Zählsystem mit Arduino und LCD
 
+
+<p align="center"><img src="docs/images/arduino-two-way-visitor-counter-lcd.svg" alt="Arduino two-way visitor counter using optical sensors and LCD" width="960" /></p>
+
+<sub>Illustrative project schematic; not an actual CAD export, hardware photograph, or independently tested result.</sub>
+
+
 **Autor:** Amir Mobasheraghdam  
 **Datum:** 2026  
 **Version:** 1.0  
